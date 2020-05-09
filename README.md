@@ -6,5 +6,5 @@ Community: deeplearning.ai
 Overview
 git add deeplearningai.png
 git commit -m 'add png file'
-git remote add origin https://github.com/xxx.git
+git remote add origin https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/edit/master/README.md
 git push -u origin master
