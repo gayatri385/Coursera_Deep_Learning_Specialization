@@ -47,18 +47,18 @@ The constitution of the repository as per course modules, quizzes and programmin
         * [Quiz - Autonomous driving (case study)](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/blob/master/3.%20Structuring-Machine-Learning-Projects/week2/WEEK2_QUIZ.pdf)
 4. [Convolutional Neural Networks](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/tree/master/4.%20Convolutional-Neural-Networks)
     * week 1
-        * [Quiz - The basics of ConvNets]
+        * Quiz - The basics of ConvNets
         * [Programming Assignment - Convolutional Model: step by step](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/blob/master/4.%20Convolutional-Neural-Networks/week1/Convolution_model_Step_by_Step_v2a.ipynb)
         * [Programming Assignment - Convolutional Model: application](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/blob/master/4.%20Convolutional-Neural-Networks/week1/Convolution_model_Application_v1a.ipynb)
     * week 2
-        * [Quiz - Deep convolutional models]
+        * Quiz - Deep convolutional models
         * [Programming Assignment - Keras Tutorial](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/blob/master/4.%20Convolutional-Neural-Networks/week2/Keras_Tutorial_v2a.ipynb)
         * [Programming Assignment - Residual Networks](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/blob/master/4.%20Convolutional-Neural-Networks/week2/Residual_Networks_v2a.ipynb)
     * week 3
-        * [Quiz - Detection algorithms]
+        * Quiz - Detection algorithms
         * [Programming Assignment - Car detection with YOLO](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/blob/master/4.%20Convolutional-Neural-Networks/week3/Autonomous_driving_application_Car_detection_v3a.ipynb)
     * week 4
-        * [Quiz - Special applications: Face recognition & Neural style transfer]
+        * Quiz - Special applications: Face recognition & Neural style transfer
         * [Programming Assignment - Art generation with Neural Style Transfer](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/blob/master/4.%20Convolutional-Neural-Networks/week4/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
         * [Programming Assignment - Face Recognition](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/blob/master/4.%20Convolutional-Neural-Networks/week4/Face_Recognition_v3a.ipynb)
 5. [Sequence Models](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/tree/master/5.%20Sequence-Models)
