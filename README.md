@@ -8,7 +8,7 @@ Community: [deeplearning.ai](https://www.deeplearning.ai/)
 
 ![](images/deeplearningai_course_series.png)
 
-I created this repository post completing the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on coursera. Its includes solutions to the quizzes and programming assignments which are required for successful completion of the courses.
+I created Coursera_Deep_Learning_Specialization repository post completing the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on coursera. Its includes solutions to the quizzes(Except Course 4 quizzes) and programming assignments.
 
 > Note: Coursera Honor Code advise against plagiarism. Readers are requested to use this repo only for insights and reference. If you are undertaking these courses at coursera, please submit you original work only.
 
