@@ -77,7 +77,7 @@ The constitution of the repository as per course modules, quizzes and programmin
         * [Programming Assignment - Trigger word detection](https://github.com/gayatri385/Coursera_Deep_Learning_Specialization/blob/master/5.%20Sequence-Models/week3/Trigger_word_detection_v1a.ipynb)
 
 ## Lecture Notes References
-Here are some references of lecture notes and reviews drawn by some communities, authors and editors - 
+Here are some references of lecture notes and reviews by some authors and editors - 
 * https://www.deeplearning.ai/ai-notes/
 * https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 * https://towardsdatascience.com/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c
