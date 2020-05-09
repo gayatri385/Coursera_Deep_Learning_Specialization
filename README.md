@@ -82,4 +82,7 @@ Here are some references of lecture notes and reviews drawn by some communities,
 * https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 * https://towardsdatascience.com/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c
 
+## Acknowledgement
 
+Special thanks to coursera for making our lives easy by providing such valuable courses & Sir Andrew Ng who provided all the tricks and turns of deep learning. It feels like a new SUPERPOWER which will help us build AI systems. Its great content for all deep learning enthusiasts.
+![](images/spe_certificate.PNG)
